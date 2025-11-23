@@ -29,7 +29,7 @@ That’s also why I posted all of my learnings in **note format on X (Twitter)**
 ## Resources I Used
 
 - **GeeksforGeeks** – Concepts and in-depth articles  
-- **Programiz** – Beginner-friendly DSA explanations
+- **Programiz** – Beginner-friendly DSA explanations  
 - **Google Search** – For theoretical understanding and clarifications
 
 ---
@@ -51,8 +51,8 @@ That’s also why I posted all of my learnings in **note format on X (Twitter)**
 
 ## Tools / Languages Used
 
-- **C / C++**
-- **VS Code**
+- **C / C++**  
+- **VS Code**  
 - **Google Search** (main learning medium)
 
 ---
@@ -66,11 +66,38 @@ That’s also why I posted all of my learnings in **note format on X (Twitter)**
 - Gained confidence in core DSA concepts  
 
 ---
+
 ## Personal Note
 
 This 30-day challenge taught me that **consistency matters more than perfect resources**.  
 Even with poor internet, I stayed committed to learning and growing every single day.  
 Learning Utsav 2025 became a reminder that motivation fades, but discipline carries you forward.
 
-# X : [Click here](https://x.com/asish_mehata)
+---
 
+# Banking System Project
+
+During this challenge, I also built a **C++ Banking System** as a practical project to apply my DSA knowledge.  
+
+### Features
+
+- Create accounts  
+- Deposit and withdraw money  
+- Track transactions for each account  
+
+### How to Compile and Run
+1. Open terminal in the project folder.  
+2. Compile the project using:
+
+``bash
+make
+
+This will generate an executable named banking_system.
+
+3. Run the Program
+make run
+
+4. To clean compiled files:
+make clean
+
+# X : [Click here](https://x.com/asish_mehata)
