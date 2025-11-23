@@ -72,5 +72,5 @@ This 30-day challenge taught me that **consistency matters more than perfect res
 Even with poor internet, I stayed committed to learning and growing every single day.  
 Learning Utsav 2025 became a reminder that motivation fades, but discipline carries you forward.
 
-** My Learning Utsav 2025 Thread:** [Click here](https://x.com/asish_mehata)
+** My Learning Utsav 2025:** [Click here](https://x.com/asish_mehata)
 ---
